@@ -17,7 +17,7 @@ function App() {
         <div className='logoBar'> 
               <div className='project-name d-flex'>
                   <span className="mx-0 my-auto logo">
-                      FASB 1671
+                      FASB 167
                   </span>
               </div>
               <div>
